@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "company": "Google",
+    "title": "Frontend Developer",
+    "salary": "12 LPA",
+    "type": "Full-Time",
+    "description": "Build scalable UI systems and improve user experience across web platforms."
+  },
+  {
+    "id": 2,
+    "company": "Microsoft",
+    "title": "React Developer",
+    "salary": "14 LPA",
+    "type": "Remote",
+    "description": "Work on modern React-based applications and improve performance."
+  },
+  {
+    "id": 3,
+    "company": "Amazon",
+    "title": "Backend Developer",
+    "salary": "18 LPA",
+    "type": "Full-Time",
+    "description": "Design APIs, manage databases, and build backend services."
+  },
+  {
+    "id": 4,
+    "company": "StartupX",
+    "title": "UI/UX Designer",
+    "salary": "6 LPA",
+    "type": "Remote",
+    "description": "Create modern and user-friendly interface designs."
+  },
+  {
+    "id": 5,
+    "company": "Netflix",
+    "title": "Full Stack Developer",
+    "salary": "20 LPA",
+    "type": "Full-Time",
+    "description": "Work on both frontend and backend systems for streaming platform."
+  },
+  {
+    "id": 6,
+    "company": "Adobe",
+    "title": "Frontend Intern",
+    "salary": "3 LPA",
+    "type": "Remote",
+    "description": "Assist in building UI components and learning React workflows."
+  }
+  ,
+  {
+    "id": 7,
+    "company": "Spotify",
+    "title": "Mobile Developer",
+    "salary": "10 LPA",
+    "type": "Full-Time",
+    "description": "Build delightful music experiences on iOS and Android platforms."
+  },
+  {
+    "id": 8,
+    "company": "Tesla",
+    "title": "Data Engineer",
+    "salary": "22 LPA",
+    "type": "Full-Time",
+    "description": "Design data pipelines and analytics to support autonomous systems."
+  },
+  {
+    "id": 9,
+    "company": "Uber",
+    "title": "SRE Engineer",
+    "salary": "18 LPA",
+    "type": "Remote",
+    "description": "Improve system reliability and build scalable infrastructure tooling."
+  },
+  {
+    "id": 10,
+    "company": "Shopify",
+    "title": "Backend Developer",
+    "salary": "15 LPA",
+    "type": "Contract",
+    "description": "Work on APIs and services that power merchant storefronts."
+  },
+  {
+    "id": 11,
+    "company": "IBM",
+    "title": "Cloud Architect",
+    "salary": "25 LPA",
+    "type": "Full-Time",
+    "description": "Architect cloud solutions and guide customers through migrations."
+  },
+  {
+    "id": 12,
+    "company": "Meta",
+    "title": "Machine Learning Engineer",
+    "salary": "30 LPA",
+    "type": "Full-Time",
+    "description": "Develop and productionize ML models for personalized experiences."
+  },
+  {
+    "id": 13,
+    "company": "Oracle",
+    "title": "Database Administrator",
+    "salary": "12 LPA",
+    "type": "Full-Time",
+    "description": "Manage and optimize large-scale database clusters."
+  },
+  {
+    "id": 14,
+    "company": "LinkedIn",
+    "title": "Frontend Engineer",
+    "salary": "16 LPA",
+    "type": "Remote",
+    "description": "Create performant React components for social features."
+  },
+  {
+    "id": 15,
+    "company": "Stripe",
+    "title": "Payments Engineer",
+    "salary": "28 LPA",
+    "type": "Full-Time",
+    "description": "Build reliable payment infrastructure and integrations."
+  },
+  {
+    "id": 16,
+    "company": "PayPal",
+    "title": "Security Analyst",
+    "salary": "14 LPA",
+    "type": "Part-Time",
+    "description": "Monitor and respond to security incidents and threats."
+  },
+  {
+    "id": 17,
+    "company": "Intel",
+    "title": "Embedded Systems Engineer",
+    "salary": "19 LPA",
+    "type": "Full-Time",
+    "description": "Develop software for hardware devices and optimize firmware performance."
+  },
+  {
+    "id": 18,
+    "company": "Cisco",
+    "title": "Network Engineer",
+    "salary": "17 LPA",
+    "type": "Remote",
+    "description": "Design and maintain secure enterprise networking solutions."
+  },
+  {
+    "id": 19,
+    "company": "Zoom",
+    "title": "DevOps Engineer",
+    "salary": "21 LPA",
+    "type": "Full-Time",
+    "description": "Automate deployments and maintain continuous delivery pipelines."
+  },
+  {
+    "id": 20,
+    "company": "Nvidia",
+    "title": "AI Research Engineer",
+    "salary": "32 LPA",
+    "type": "Full-Time",
+    "description": "Build advanced AI models and optimize GPU-based training workloads."
+  },
+  {
+    "id": 21,
+    "company": "Slack",
+    "title": "Product Designer",
+    "salary": "15 LPA",
+    "type": "Remote",
+    "description": "Create compelling user experiences for productivity applications."
+  },
+  {
+    "id": 22,
+    "company": "Red Hat",
+    "title": "Cloud Security Engineer",
+    "salary": "23 LPA",
+    "type": "Full-Time",
+    "description": "Protect cloud infrastructure and secure deployment workflows."
+  },
+  {
+    "id": 23,
+    "company": "GitHub",
+    "title": "Software Architect",
+    "salary": "29 LPA",
+    "type": "Full-Time",
+    "description": "Lead design and implementation of large-scale software platforms."
+  },
+  {
+    "id": 24,
+    "company": "Salesforce",
+    "title": "Technical Product Manager",
+    "salary": "24 LPA",
+    "type": "Full-Time",
+    "description": "Define product strategy and work with engineering teams on delivery."
+  },
+  {
+    "id": 25,
+    "company": "Dropbox",
+    "title": "Quality Assurance Engineer",
+    "salary": "13 LPA",
+    "type": "Contract",
+    "description": "Test software workflows and create automation for reliability."
+  },
+  {
+    "id": 26,
+    "company": "Airbnb",
+    "title": "Data Scientist",
+    "salary": "27 LPA",
+    "type": "Full-Time",
+    "description": "Extract insights from data to improve customer experiences."
+  },
+  {
+    "id": 27,
+    "company": "IBM",
+    "title": "Blockchain Engineer",
+    "salary": "26 LPA",
+    "type": "Full-Time",
+    "description": "Build distributed ledger solutions and smart contract systems."
+  },
+  {
+    "id": 28,
+    "company": "Oracle",
+    "title": "Database Developer",
+    "salary": "18 LPA",
+    "type": "Remote",
+    "description": "Work with SQL and NoSQL systems to build high-performance backends."
+  },
+  {
+    "id": 29,
+    "company": "Twitter",
+    "title": "Site Reliability Engineer",
+    "salary": "22 LPA",
+    "type": "Remote",
+    "description": "Keep services online with monitoring, alerts, and performance tuning."
+  },
+  {
+    "id": 30,
+    "company": "Square",
+    "title": "Mobile QA Engineer",
+    "salary": "13 LPA",
+    "type": "Full-Time",
+    "description": "Validate mobile apps and automate tests for payments products."
+  },
+  {
+    "id": 31,
+    "company": "Unity",
+    "title": "Game Developer",
+    "salary": "16 LPA",
+    "type": "Remote",
+    "description": "Create immersive gaming experiences using Unity and C#."
+  },
+  {
+    "id": 32,
+    "company": "Snap",
+    "title": "AR/VR Engineer",
+    "salary": "24 LPA",
+    "type": "Full-Time",
+    "description": "Develop augmented and virtual reality applications."
+  },
+  {
+    "id": 33,
+    "company": "Zoho",
+    "title": "Technical Support Engineer",
+    "salary": "10 LPA",
+    "type": "Part-Time",
+    "description": "Resolve customer issues for cloud and business apps."
+  },
+  {
+    "id": 34,
+    "company": "HackerRank",
+    "title": "DevSecOps Engineer",
+    "salary": "24 LPA",
+    "type": "Full-Time",
+    "description": "Integrate security into CI/CD and protect software delivery."
+  },
+  {
+    "id": 35,
+    "company": "Intel",
+    "title": "Computer Vision Engineer",
+    "salary": "28 LPA",
+    "type": "Full-Time",
+    "description": "Build vision systems that analyze images and video."
+  },
+  {
+    "id": 36,
+    "company": "Atlassian",
+    "title": "Site Reliability Analyst",
+    "salary": "17 LPA",
+    "type": "Remote",
+    "description": "Analyze system health and improve operational efficiency."
+  },
+  {
+    "id": 37,
+    "company": "Accenture",
+    "title": "Cloud Consultant",
+    "salary": "18 LPA",
+    "type": "Contract",
+    "description": "Help companies move applications to the cloud securely."
+  },
+  {
+    "id": 38,
+    "company": "Mozilla",
+    "title": "Web Performance Engineer",
+    "salary": "21 LPA",
+    "type": "Remote",
+    "description": "Optimize web applications for speed and responsiveness."
+  }
+]
